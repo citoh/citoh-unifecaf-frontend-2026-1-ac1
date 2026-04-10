@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Produto Exemplo",
+    "price": 90.89,
+    "category": "Categoria",
+    "image": "/src/assets/images/product.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Produto Exemplo",
+    "price": 90.89,
+    "category": "Categoria1",
+    "image": "/src/assets/images/product.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Produto Exemplo3",
+    "price": 90.89,
+    "category": "Categoria2",
+    "image": "/src/assets/images/product.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Produto Exemplo4",
+    "price": 90.89,
+    "category": "Categoria2",
+    "image": "/src/assets/images/product.jpg"
+  }
+]
